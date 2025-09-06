@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Osama</h1>
 <h3 align="center">A passionate React.js Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Next.js & TypeScript**  
-- 👯 I’m looking to collaborate on **React projects & open-source**  
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**  
+
+ 
 - 📫 How to reach me: **mahmoud4h5@gmail.com**  
 - ⚡ Fun fact: I enjoy creating smooth UI/UX with animations ✨  
 
