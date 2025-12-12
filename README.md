@@ -18,10 +18,14 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ma252002" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://wa.me/201016074277" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  
+  <a href="https://mahmoudosama.netlify.app/" target="_blank">
+    <img src="https://emojicdn.elk.sh/🌐" height="28" width="38"  alt="portfolio"/> 
   </a>
 </p>
 
