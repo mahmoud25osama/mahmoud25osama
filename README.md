@@ -1,11 +1,11 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand emoji">
   Welcome to <em> Mahmoud Osama </em>'s GitHub!
-  <img src="https://komarev.com/ghpvc/?username=mahmoud25osama&style=flat-square&label=VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud25osama&style=flat-square&label=VIEWS" alt="Profile views counter">
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=560&lines=Full+Stack+MERN+Developer;Building+Modern+and+Scalable+Web+Apps;Always+Learning+New+Technologies">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=560&lines=Full+Stack+MERN+Developer;Building+Modern+and+Scalable+Web+Apps;Always+Learning+New+Technologies" alt="Animated text banner: Full Stack MERN Developer, Building Modern and Scalable Web Apps, Always Learning New Technologies">
 </p>
 
 Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer from Egypt, focused on building clean, interactive, and scalable products with the **MERN Stack**.
@@ -35,11 +35,11 @@ Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer from Egypt, f
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud25osama&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud25osama&theme=radical" alt="GitHub contribution streak statistics" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud25osama&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud25osama&layout=compact&theme=radical" alt="Most used programming languages statistics" />
 </p>
 
 ---
