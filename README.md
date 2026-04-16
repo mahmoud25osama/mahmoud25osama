@@ -10,19 +10,19 @@
 </p>
 Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer from Egypt, focused on building clean, interactive, and scalable products with the <b>MERN Stack<b>.
 
----
 
-## 👨‍💻 About Me
 
-- 💻 Full-Stack MERN Developer (**MongoDB, Express.js, React.js, Node.js**).
-- 🎓 Graduate of **Computer Science** at Benha University – Class of 2025.
-- 🚀 I build real-world, responsive, and functional web apps that focus on UI/UX and performance.
-- 🧠 Interested in performance-focused frontends and maintainable backend architectures.
-- 📫 Passionate about clean code, solving problems, and continuous learning.
+##  About Me
 
----
+-  Full-Stack MERN Developer (**MongoDB, Express.js, React.js, Node.js**).
+-  Graduate of **Computer Science** at Benha University – Class of 2025.
+-  I build real-world, responsive, and functional web apps that focus on UI/UX and performance.
+-  Interested in performance-focused frontends and maintainable backend architectures.
+-  Passionate about clean code, solving problems, and continuous learning.
 
-## 🚀 My Tech Stack
+
+
+##  My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -32,9 +32,9 @@ Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer from Egypt, f
 | **Databases** | ![Mongoose](https://img.shields.io/badge/-Mongoose-8A0000?style=flat&logo=mongoose) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Tools** | <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"> |
 
----
 
-## 📊 GitHub Stats
+
+##  GitHub Stats
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-O&theme=radical" alt="GitHub contribution streak statistics" />
@@ -44,15 +44,18 @@ Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer from Egypt, f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud-O&layout=compact&theme=radical" alt="Most used programming languages statistics" />
 </p>
 
----
 
-## 📫 Let's Connect!
+
+##  Let's Connect!
 
 <a href="mailto:mahmoud4h5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ma252002"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/201016074277"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://mahmoudosama.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
----
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”*
+
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
