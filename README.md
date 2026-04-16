@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2cd0e0&center=true&width=560&lines=Full+Stack+MERN+Developer;Building+Modern+and+Scalable+Web+Apps;Always+Learning+New+Technologies" alt="Animated text banner: Full Stack MERN Developer, Building Modern and Scalable Web Apps, Always Learning New Technologies">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud25osama&style=flat-square&label=VIEWS" alt="Profile views counter">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud25osama&style=square&label=VIEWS" alt="Profile views counter">
 </p>
 Welcome to my GitHub! I'm an enthusiastic Full Stack Web Developer from Egypt, focused on building clean, interactive, and scalable products with the <b>MERN Stack<b>.
 
